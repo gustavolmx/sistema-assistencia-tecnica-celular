@@ -15,10 +15,10 @@ Programa em Python que apoia uma assistencia tecnica de celulares na abertura de
 Este e um projeto em grupo, e eu nao fiz tudo sozinho.
 
 - Configuracoes iniciais (marcadas no codigo como "CONFIGURACOES INICIAIS / GUSTAVO"): dicionario com os valores dos servicos, lista de respostas validas, e as listas e contadores que guardam o que o usuario digita (ordens de servico, parcelamento, quantidade de trocas de tela, bateria, conector, software e ordens urgentes) ate ele encerrar o dia.
-- Loop principal do programa (marcado no codigo como "LOOP PRINCIPAL / GUSTAVO"): menu com as opcoes "Abrir OS" e "Encerrar o dia", que se repete ate o usuario encerrar, com validacao da opcao digitada. [CONFERIR: se voce tambem escreveu o que acontece dentro de "Abrir OS", acrescente aqui; se nao, deixe so o menu]
+- Loop principal do programa (marcado no codigo como "LOOP PRINCIPAL / GUSTAVO"): menu com as opcoes "Abrir OS" e "Encerrar o dia", que se repete ate o usuario encerrar, com validacao da opcao digitada.
 - Ideias e sugestoes em outras partes do programa.
 
-As demais partes foram desenvolvidas por outros integrantes do grupo: [NOMES DOS INTEGRANTES].
+As demais partes foram desenvolvidas por outros integrantes do grupo: Jonathan, Samuel.
 
 ## Avaliacao
 
