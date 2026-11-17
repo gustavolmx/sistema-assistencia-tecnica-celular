@@ -31,7 +31,6 @@ O programa foi avaliado com base em normas de qualidade de software:
 ## O que ficou de fora e limitacoes
 
 - O programa encerra com erro quando o usuario digita letras em campos numericos. A melhoria recomendada e validar as entradas.
-- [ADICIONAR O QUE MAIS FICOU DE FORA, se houver]
 
 ## Como executar
 
